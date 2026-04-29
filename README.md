@@ -39,8 +39,8 @@ Struktura datoteka:
 
 `src/zavrsna_simulacija.py`
 
-`data/mars_uzorci (1).csv`: [Pritisni ovdje za otvaranje dokumenta](data/mars_uzorci(1).csv)
+`data/mars_uzorci (1).csv`: [Pritisni ovdje za otvaranje dokumenta](data/mars_uzorci.csv)
 
-`data/mars_lokacije (1).csv`: [Pritisni ovdje za otvaranje dokumenta](data/mars_lokacije(1).csv)
+`data/mars_lokacije (1).csv`: [Pritisni ovdje za otvaranje dokumenta](data/mars_lokacije.csv)
 
 -Mateo Jures - [@MateoJures](https://github.com/MateoJures)
