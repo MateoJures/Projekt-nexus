@@ -25,6 +25,7 @@ Kloniraj repozitorij:
    ```
 Pokreni glavni program:
 [Pritisni ovdje za otvaranje dokumenta](src/zavrsna_simulacija.py)
+
 Popis alata koje sam koristio:
 
 **Jezik** Python 
