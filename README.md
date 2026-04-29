@@ -11,8 +11,11 @@ Program je dizajniran da bude precizan, brz i jednostavan za korištenje u istra
 2. Metodologija rada
 
 Analiza se temelji na provjeri tri ključna faktora: prisutnosti vode, temperaturi i kemijskom sastavu atmosfere.
+
 Prikupljanje podataka: Simulacija unosa sa senzora.
+
 Obrada: Algoritam uspoređuje podatke sa strogo definiranim biološkim granicama.
+
 Interpretacija: Sustav generira vizualne prikaze radi lakšeg donošenja odluka
 
 3. Analiza i Vizualizacije
