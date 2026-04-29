@@ -18,11 +18,14 @@ Interpretacija: Sustav generira vizualne prikaze radi lakšeg donošenja odluka
 3. Analiza i Vizualizacije
 
 Grafikon kretanja temperature: Prikazuje periode kada je život fizički moguć.
-Karta vlažnosti tla: Identificira područja s ostacima vode.
-Spektar atmosferskih plinova: Detektira prisutnost metana kao ključnog markera.
-Usporedba lokacija: Rangiranje mjesta slijetanja prema sigurnosti i potencijalu.
-Finalna detekcija života: Sažeti prikaz vjerojatnosti pronalaska mikroorganizama
 
+Karta vlažnosti tla: Identificira područja s ostacima vode.
+
+Spektar atmosferskih plinova: Detektira prisutnost metana kao ključnog markera.
+
+Usporedba lokacija: Rangiranje mjesta slijetanja prema sigurnosti i potencijalu.
+
+Finalna detekcija života: Sažeti prikaz vjerojatnosti pronalaska mikroorganizama
 
 Evo prikaza podataka koje smo generirali:
 
