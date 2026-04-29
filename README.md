@@ -24,9 +24,7 @@ Kloniraj repozitorij:
    git clone MateoJures/Projekt-nexus
    ```
 Pokreni glavni program:
-```bash
-   python src/zavrsna_simulacija.py
-   ```
+[Pritisni ovdje za otvaranje Landing stranice](src/zavrsna_simulacija.py)
 Popis alata koje sam koristio:
 
 **Jezik** Python 
