@@ -35,11 +35,7 @@ Evo prikaza podataka koje smo generirali:
 
 1.![Ovaj prikaz vizualizira podatke prikupljene sa senzora, fokusirajući se na to kako toplina tla utječe na postotak vode (H2O)](assets/graph1_temp_h2o.png)
 
-2.![Ova toplinska mapa vizualizira distribuciju podataka kroz različite dubinske profile.](assets/graph2_heatmap_depth.png)
-
-3.![Pomoću scatter plota vizualizirali smo raspodjelu koncentracije metana u promatranom razdoblju.](assets/graph3_methane_scatter.png)
-
-4.![Ovaj scatter plot omogućuje nam dubinski uvid u distribuciju podataka i identifikaciju korelacija koje nisu vidljive u tabličnom prikazu.](assets/graph4_scatter_plot.png)
+2.![Ovaj graf prikazuje prostornu distribuciju metana na istraživanom području Marsa.](assets/graf_2_mapa_metana.png)
 
 5.![Svi prikupljeni podaci dolaze iz specifičnih zona kratera Jezero. Mapa ispod prikazuje točke na kojima su senzori zabilježili vrijednosti prikazane u prethodnim grafikonima.](assets/graph5_jezero_mission_map.jpg)
 
